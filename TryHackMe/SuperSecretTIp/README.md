@@ -1,5 +1,5 @@
-# Super Secret TIp - TryHackMe
-https://tryhackme.com/room/supersecrettip
+# 🚀 Super Secret TIp - TryHackMe
+🔗 https://tryhackme.com/room/supersecrettip
 
 - First this you need to do is to do port scanning using NMAP or rustscan
 ```py
